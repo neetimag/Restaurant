@@ -1,0 +1,243 @@
+#heading {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.527), rgba(0, 0, 0, 0.548)), url("../../assets/img/hero.jpg");
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-repeat: space;
+    background-position: center;
+    overflow: ;
+}
+
+.navbar-light .navbar-brand {
+    background-image: url("../../assets/img/Coder_Biceps.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 350px;
+    height: 80px;
+}
+
+#navlinks {
+    color: rgba(184, 182, 182, 0.9);
+    font-weight: 600;
+    text-transform: uppercase;
+    padding: 15px;
+    padding-top: 48px;
+}
+
+#navlinks:hover {
+    color: white;
+}
+
+#headerheading {
+    font-size: 69px;
+    color: rgb(255, 255, 255);
+    font-weight: 700;
+    word-spacing: 1px;
+    letter-spacing: 1px;
+    padding-top: 228px;
+}
+
+#subheading {
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    text-transform: uppercase;
+    font-weight: 100;
+    letter-spacing: 2px;
+}
+
+#headerheading1 {
+    margin: 0;
+    padding: 0;
+    font-size: 69px;
+    display: inline-block;
+}
+
+#sec2h2 {
+    display: flex;
+    padding-bottom: 0px;
+    padding-top: 80px;
+    font-size: 35px;
+    font-weight: 400;
+    word-spacing: 2px;
+    letter-spacing: 1px;
+}
+
+#sec2h3 {
+    padding: 0px;
+    font-size: 16px;
+    display: flex;
+}
+
+#sec2hdiv {
+    padding-top: 0px;
+}
+
+#sec3head3 {
+    display: inline-block;
+    width: 146px;
+    height: 20px;
+    font-size: 18px;
+    font-weight: 200;
+    padding-top: 15px;
+}
+
+#sec2col2div {
+    padding-top: 43px;
+}
+
+#sec2col2lastpara {
+    display: inline-block;
+    height: 150px;
+    margin-bottom: 18px;
+}
+
+#sec3col2head {
+    font-size: 16px;
+    padding-top: 38px;
+}
+
+#sec2col2para {
+    height: 50px;
+}
+
+#sec3col2head2 {
+    font-size: 16px;
+    padding-top: 16px;
+}
+
+#sec2col2head3 {
+    font-size: 16px;
+}
+
+#sec2col2 {
+    margin-right: 0px;
+    margin-left: 32px;
+}
+
+#sec3carousel {
+    padding-top: 80px;
+}
+
+#sec4heading {
+    font-weight: 200;
+    font-size: 17px;
+    margin-bottom: 61px;
+}
+
+.sec4head {
+    font-size: 50px;
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 10px;
+    color: #212529;
+}
+
+#sec4paradiv {
+    margin-bottom: 0px;
+    display: inline-block;
+}
+
+#sec4head {
+    display: flex;
+}
+
+#sec4span {
+    margin-left: 160px;
+    font-size: 16px;
+}
+
+#sec4heading2 {
+    font-weight: 200;
+}
+
+#sec4subhead {
+    padding-bottom: 10px;
+}
+
+#sec4span1 {
+    margin-left: 246px;
+    font-size: 16px;
+}
+
+#sec5drinks {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 1024px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.664), rgba(0, 0, 0, 0.658)), url("../../assets/img/drinks12.jpg");
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0px;
+    margin-top: 20px;
+}
+
+#logoimg {
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+    height: 100px;
+}
+
+#logimg {
+    font-size: 50px;
+    font-weight: 700;
+    color: white;
+}
+
+#imgdiv {
+    text-align: center;
+    margin-top: 150px;
+    margin-bottom: 100px;
+}
+
+#sec5head1 {
+    color: rgb(255, 255, 255);
+    font-family: Raleway, sans-serif;
+    width: 300px;
+}
+
+#sec5head2 {
+    color: white;
+}
+
+#sec5span {
+    font-size: 17px;
+    margin-left: 212px;
+    margin-top: 0px;
+    margin-bottom: -21px;
+    margin-right: 7px;
+}
+
+#sec5span1 {
+    font-size: 16px;
+    padding-right: 0px;
+    margin-right: 0px;
+    padding-left: 116px;
+}
+
+#sec6head {
+    padding-top: 30px;
+    font-weight: 800;
+    letter-spacing: 1px;
+}
+
+#contactform {
+    background-color: white;
+}
+
+#formpara {
+    margin-bottom: 44px;
+}
+
+#footer {
+    font-family: Raleway, sans-serif;
+    color: rgb(255, 255, 255);
+    background-color: #323232;
+    height: 200px;
+}
+
+#footerpara {
+    font-family: Raleway, sans-serif;
+    margin-top: 18px;
+}
